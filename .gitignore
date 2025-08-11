@@ -45,6 +45,11 @@ coverage.xml
 .pytest_cache/
 cover/
 
+# Jest
+coverage/
+test-logs/
+test/tmp-*/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
